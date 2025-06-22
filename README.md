@@ -36,6 +36,8 @@ Each folder includes:
 ## Tools Used
 
 - [`neofetch`](https://github.com/dylanaraps/neofetch) for system info snapshots  
+- [`diskutil`](https://ss64.com/osx/diskutil.html) for disk management
+- [`blackmagic`](https://blackmagicdesign.com/support/downloads) for disk speed tests
 - macOS built-in utilities (`Activity Monitor`, `About This Mac`, `diskutil`)
 
 ## License
