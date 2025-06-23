@@ -15,7 +15,7 @@ mac/
 └── studio/               # Screenshots from Mac Studio
     ├── disk_speed.png    # Disk benchmark results
     ├── disk_usage.png    # Storage breakdown
-    ├── neofetch.png      # System summary via neofetch
+    ├── fastfetch.png     # System summary via fastfetch
     └── system.png        # ‘About This Mac’ screenshot
 ```
 
@@ -25,7 +25,7 @@ Each folder includes:
 
 - **System Information** – macOS version, hardware specs, memory
 - **Performance Benchmarks** – Disk speeds, CPU load, etc.
-- **Utilities Output** – Tools like `neofetch`, `diskutil`, and others
+- **Utilities Output** – Tools like `fastfetch`, `diskutil`, and others
 
 ## Purpose
 
@@ -35,7 +35,7 @@ Each folder includes:
 
 ## Tools Used
 
-- [`neofetch`](https://github.com/dylanaraps/neofetch) for system info snapshots  
+- [`fastfetch`](https://github.com/fastfetch-cli/fastfetch) for system info snapshots  
 - [`diskutil`](https://ss64.com/osx/diskutil.html) for disk management
 - [`blackmagic`](https://blackmagicdesign.com/support/downloads) for disk speed tests
 - macOS built-in utilities (`Activity Monitor`, `About This Mac`, `diskutil`)
